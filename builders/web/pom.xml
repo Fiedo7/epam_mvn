@@ -23,8 +23,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.epam</groupId>
-            <artifactId>services-child-module</artifactId>
+            <groupId>com.epam.builders</groupId>
+            <artifactId>services</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
